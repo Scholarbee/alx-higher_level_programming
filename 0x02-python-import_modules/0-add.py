@@ -2,7 +2,8 @@
 
 from add_0 import add
 
-a , b = 1 , 2
+a = 1
+b = 2
 result = add(a, b)
 
 print("{} + {} = {:d}".format(a, b, result))
